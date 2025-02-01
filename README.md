@@ -22,8 +22,8 @@ PriceWatchman is a React-based web application that helps users track product pr
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/price-watchman.git
-cd price-watchman
+git clone https://github.com/makalin/PriceWatchman.git
+cd PriceWatchman
 ```
 
 2. Install dependencies:
